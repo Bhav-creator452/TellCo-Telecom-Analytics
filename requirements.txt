@@ -1,0 +1,32 @@
+
+# Data manipulation
+pandas
+numpy
+openpyxl
+pyarrow
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Statistics and machine learning
+scipy
+scikit-learn
+statsmodels
+
+# Dashboard
+streamlit
+
+# Configuration and utilities
+pyyaml
+python-dotenv
+joblib
+
+# Testing and code quality
+pytest
+pytest-cov
+ruff
+
+# Experiment tracking
+mlflow
